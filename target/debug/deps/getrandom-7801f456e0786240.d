@@ -1,0 +1,12 @@
+/home/mini/rustprojects/Hangman/target/debug/deps/getrandom-7801f456e0786240.rmeta: /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lib.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error_impls.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util_libc.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/use_file.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lazy.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/linux_android_with_fallback.rs
+
+/home/mini/rustprojects/Hangman/target/debug/deps/getrandom-7801f456e0786240.d: /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lib.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error_impls.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util_libc.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/use_file.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lazy.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/linux_android_with_fallback.rs
+
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lib.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/error_impls.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/util_libc.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/use_file.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/lazy.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.15/src/linux_android_with_fallback.rs:

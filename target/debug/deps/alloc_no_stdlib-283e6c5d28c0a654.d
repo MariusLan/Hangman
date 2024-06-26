@@ -1,0 +1,10 @@
+/home/mini/rustprojects/hangman/target/debug/deps/alloc_no_stdlib-283e6c5d28c0a654.rmeta: /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/home/mini/rustprojects/hangman/target/debug/deps/alloc_no_stdlib-283e6c5d28c0a654.d: /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs /home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs
+
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/lib.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/mod.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_memory/index_macro.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/stack_allocator.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/allocated_stack_memory.rs:
+/home/mini/.cargo/registry/src/github.com-1ecc6299db9ec823/alloc-no-stdlib-2.0.4/src/init.rs:
