@@ -1,1 +1,1 @@
-/home/mini/rustprojects/hangman/target/debug/hangman: /home/mini/rustprojects/hangman/src/main.rs
+/home/mini/rustprojects/Hangman/target/debug/hangman: /home/mini/rustprojects/Hangman/src/main.rs
